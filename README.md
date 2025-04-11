@@ -2,15 +2,9 @@
 The Movie Search Application is a React-based web app that allows users to search for movies, view detailed movie information, and filter results by type (movie, series, or episode) using the OMDb API. 
 The app also features a clean and responsive design styled with Tailwind CSS, enhanced user experience, and smooth navigation.
 
-![Screenshot (225)](https://github.com/user-attachments/assets/31463212-c44e-4cf8-82fc-8a8aad267c2e)
-![Screenshot (224)](https://github.com/user-attachments/assets/f909fe34-5cd9-490c-ba36-799d5dbf7f5c)
-
-## Features
-
 ### 1.Search Movies
 
 Users can search for movies by entering keywords in the search bar.
-
 
 ### 2.Movie Details
 
